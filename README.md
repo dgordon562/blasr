@@ -151,9 +151,9 @@ This alignment format contains the full representation of the pairwise alignment
 <tr> <td> 15. </td> <td> nDel </td> </tr>
 <tr> <td> 16. </td> <td> mapping quality </td> </tr>
 <tr> <td> 17. </td> <td> ref align string </td> </tr>
-<tr> <td> 18. </td> <td> query align string </td> </tr>
-<tr> <td> 19. </td> <td> stick string </td> </tr>
-<tr> <td> 20. </td> <td> ref align string </td> </tr>
+<tr> <td> 18. </td> <td> stick string</td> </tr>
+<tr> <td> 19. </td> <td> query align string </td> </tr>
+
 </table>
 
 For reverse strand alignments, the coordinates are reported starting at the 3' end of the forward strand. 
